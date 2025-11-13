@@ -1,4 +1,4 @@
-# Project Euler
+# Projekt Euler
 
 ## Problem 1: Multiplum af 3 eller 5
 
